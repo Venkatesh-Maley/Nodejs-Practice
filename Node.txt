@@ -1,0 +1,13 @@
+Node js:
+A runtime environment for executing Javascript code.
+We ofter use Node to build back end services, Also Known as  API ( Application Programming Interface)
+Node is Highly scalable, Dat intensive and real time apps
+Why Node?
+-Great for prototyping and agile development
+-Superfast and Highly scalable
+-Javascript everywhere
+-Cleaner and more consistent codebase
+-Large ecosystem of open cource libraries
+Highly scalable because of Non Blocking or ASYNCHRONOUS 
+node is Ideal for I/O intensive apps
+Don't use node for CPU intensive appsThank you!!Thank you!!Thank you!!
